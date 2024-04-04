@@ -1,12 +1,11 @@
 ## <p align="center">Olá, me chamo Matheus Santucci ;).</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=santuciiii&theme=radical&mode=weekly" />
+ <div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santuciiii&theme=radical&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 <img width=40% align="center" src="https://github-readme-stats-chi-one-76.vercel.app/api/top-langs/?username=santuciiii&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+
+</div>
 
 
 
